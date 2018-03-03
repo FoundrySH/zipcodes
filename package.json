@@ -1,0 +1,17 @@
+{
+  "name": "zipcodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "FoundrySH",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.1.0",
+    "micro-cors": "^0.1.0",
+    "now": "^10.1.3",
+    "sqlite3": "^3.1.13",
+    "url-pattern": "^1.0.3"
+  }
+}
